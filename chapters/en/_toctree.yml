@@ -1,0 +1,40 @@
+- title: "0. Introduction"
+  sections:
+  - local: chapter0/1
+    title: Introduction and Setup
+    
+- title: "1. The 🤗 Datasets Library"
+  sections:
+  - local: chapter1/1
+    title: Introduction
+  - local: chapter1/2
+    title: What if my dataset isn't on the Hub?
+  - local: chapter1/3
+    title: Time to slice and dice
+  - local: chapter1/4
+    title: Big data? 🤗 Datasets to the rescue!
+  - local: chapter1/5
+    title: Creating your own dataset
+  - local: chapter1/6
+    title: Semantic search with FAISS
+  - local: chapter1/7
+    title: Datasets and DataLoaders
+  - local: chapter1/8
+    title: End-of-chapter quiz
+
+- title: "2. Building and Sharing Datasets with Argilla"
+  sections:
+  - local: chapter2/1
+    title: Introduction to Argilla
+  - local: chapter2/2
+    title: Getting started with Argilla
+  - local: chapter2/3
+    title: Curating a dataset for classification
+  - local: chapter2/4
+    title: Curating a dataset for token classification
+  - local: chapter2/5
+    title: Gathering human feedback
+  - local: chapter2/6
+    title: Putting it all together
+  - local: chapter2/7
+    title: End-of-chapter quiz
